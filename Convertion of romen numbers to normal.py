@@ -46,7 +46,7 @@ def Converter():
                         result=result+2995
         print(f"Arabic Number={result}")
     else:
-        print("You entered wrong character")
+        print("You entered wrong characterr")
 
 
 
